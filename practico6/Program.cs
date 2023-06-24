@@ -19,3 +19,18 @@ else
 {
     Console.WriteLine("No ingresaste un numero");
 }*/
+//Punto3
+/*Console.WriteLine("Ingrese un numero:");
+float x = float.Parse(Console.ReadLine());
+Console.WriteLine("|x| = " + Math.Abs(x));
+Console.WriteLine("x² = " + (x*x));
+Console.WriteLine("sqrt(x) = " + Math.Sqrt(x));
+Console.WriteLine("sin(x) = " + Math.Sin(x));
+Console.WriteLine("cos(x) = " + Math.Cos(x));
+Console.WriteLine("Parte entera = " + Convert.ToInt32(x));
+
+Console.WriteLine("Ingrese dos numeros:");
+float a = float.Parse(Console.ReadLine());
+float b = float.Parse(Console.ReadLine());
+Console.WriteLine("El mayor es: "+Math.Max(a,b));
+Console.WriteLine("El menor es: "+Math.Min(a,b));*/
